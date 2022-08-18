@@ -8,7 +8,6 @@ Pervise is a simple anti-virus software kernel made by individuals based on MD5 
 ### If you are a developer / If you have a computer foundation
 Please visit our GitHub repository and operate according to readme.md.
 ### If you are an ordinary user
-Please wait patiently! In a short time, you will soon get a one-piece lightweight anti-virus software - pervise that can be directly used on the desktop
-
+You can visit https://github.com/tiantian520tt/pervise/releases/ Download the free Windows program and run it. Please use the command prompt or PowerShell to run it.
 
 # Powered by tiantian520tt
